@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nockne/portfolionew.git/static/css/main.5c49b0f0.css",
+    "main.js": "/Nockne/portfolionew.git/static/js/main.bc5db50b.js",
+    "static/media/about.jpg": "/Nockne/portfolionew.git/static/media/about.96476634b5638b9b7d80.jpg",
+    "static/media/me.jpeg": "/Nockne/portfolionew.git/static/media/me.c1464aecae1dfffdef7b.jpeg",
+    "static/media/Resume.pdf": "/Nockne/portfolionew.git/static/media/Resume.43212bee3cf029ba06d8.pdf",
+    "index.html": "/Nockne/portfolionew.git/index.html",
+    "main.5c49b0f0.css.map": "/Nockne/portfolionew.git/static/css/main.5c49b0f0.css.map",
+    "main.bc5db50b.js.map": "/Nockne/portfolionew.git/static/js/main.bc5db50b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c49b0f0.css",
+    "static/js/main.bc5db50b.js"
+  ]
+}
